@@ -2,10 +2,6 @@
 This project is a social media chat analyzer built with Python and nlp. The application provides various analyses on a chat log, including top statistics, activity timelines, activity maps, word cloud, most common words, emoji analysis, and sentiment analysis. The analysis can be done for a specific user or for the overall chat.
 
 
-C:\Users\AK\Desktop\1_ZTzL0HlOgeEM8hPw1ElMCQ.webp
-
-
-
 # Project description: 
 
 You can use your WhatsApp data for many data science tasks like sentiment analysis, keyword extraction, named entity recognition, text analysis and several other natural language processing tasks. It also depends on who you are analysing your WhatsApp messages with because you can find a lot of information from your WhatsApp messages which can also help you to solve business problems.
